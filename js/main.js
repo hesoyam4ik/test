@@ -50,9 +50,9 @@ jQuery(document).ready(function() {
  		new TradingView.widget(
 		 	{
 		  		"autosize": true,
-			  	"symbol": "NASDAQ:GZPFY",
+			  	"symbol": "NASDAQ: GZPFY",
 			  	"interval": "D",
-			  	// "timezone": "Etc/UTC",
+			  	"timezone": "Etc/UTC",
 			  	"theme": "Dark",
 			  	"style": "1",
 			  	"locale": "en",
