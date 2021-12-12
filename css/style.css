@@ -83,6 +83,9 @@ g[opacity="0.4"]{
 }
 .crypt-logo img{
     height: 22px !important;
+    display: block;
+    margin-top: 25px;
+    margin-left: 10%;
 }
 /*--- colors ----*/
 .crypt-yellow{
