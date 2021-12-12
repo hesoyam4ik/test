@@ -87,6 +87,10 @@ g[opacity="0.4"]{
     margin-top: 25px;
     margin-left: 10%;
 }
+
+.crypt-mega-dropdown-menu {
+    display: none !important;
+}
 /*--- colors ----*/
 .crypt-yellow{
     color: #f8a43e;
