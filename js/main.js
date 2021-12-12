@@ -50,7 +50,7 @@ jQuery(document).ready(function() {
  		new TradingView.widget(
 		 	{
 		  		"autosize": true,
-			  	"symbol": "NASDAQ:AAPL",
+			  	"symbol": "NASDAQ:GAZP",
 			  	"interval": "D",
 			  	"timezone": "Etc/UTC",
 			  	"theme": "Dark",
